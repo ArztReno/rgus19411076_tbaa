@@ -14,5 +14,6 @@ d) Get the movie with the max gross and the movie with the min gross
 e) Use user’s input to dynamically find and display the movies (film, genre, year) with a matching
 studio
 
+
 4 - python program that finds for a given city the live weather report (temperature, wind speed,
 description and weather)
